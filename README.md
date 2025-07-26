@@ -9,7 +9,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 - [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder.
 - [BDG](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev.
 - [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team.
-- [DonutMaster](https://github.com/DonutMaster) - R&D Team.
+- [DonutMaster](https://donutmaster.github.io/) - R&D Team.
 - [darkfly0213](https://github.com/darkfly02131) - R&D Team.
 - [Qurti](https://github.com/QurtiDev) - R&D Team.
 - [Vigorizante](https://tryhackme.com/p/Vigorizante) - R&D Team.
@@ -18,6 +18,9 @@ Plan your InfoSec certification journey with this community-driven project, insp
 
 ## Changelogs
 - [26/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md)
+
+## Certification Addition Request
+Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/vsUnG6EGku) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
 
 ## Feedback & Support
 
