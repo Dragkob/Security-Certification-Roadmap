@@ -7,7 +7,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 ### Devs & Contributors
 
 - [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder.
-- [BDG](https://bitsdigitalagency.com/) - Lead Designer & Dev.
+- [BDG](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev.
 - [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team.
 - [DonutMaster](https://github.com/DonutMaster) - R&D Team.
 - [darkfly0213](https://github.com/darkfly02131) - R&D Team.
