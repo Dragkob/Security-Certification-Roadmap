@@ -1,28 +1,66 @@
-<h1 align="center">
+<!-- Picture + Title + Separator -->
 <span title="AI-Generated | Generated with Google Gemini."><img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png" /></span>
-</h1>
+# 
+<h2 align="center"><p>Security Certification Roadmap</p></h2>
 
-## <p align="center">Security Certification Roadmap</p>
+<!-- Core Content -->
+<!-- START DEVS & CONTRIBS-->
 
-Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s [renowned roadmap](https://github.com/PaulJerimy/SecCertRoadmapHTML).
+  
+Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
 
-### Devs & Contributors
+| Devs & Contributors                                                             | Pre-Release UAT                                                       |
+|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+| [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   |
+| [BITS](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev               | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |
+| [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team             | [0xchevalier]() - UAT Tester                                          |
+| [DonutMaster](https://donutmaster.github.io/) - R&D Team                        |                  |
+| [Vigorizante](https://tryhackme.com/p/Vigorizante) - R&D Team                   |                  |
+| [darkfly0213](https://github.com/darkfly02131) - R&D Team                       |                  |
+| [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team           |                  |
+| [Silastic](https://github.com/Silas-Xeransis) - R&D Team                        |                  |
+| [Qurti](https://github.com/QurtiDev) - R&D Team                                 |                  |
 
-- [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder.
-- [BITS](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev.
-- [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team.
-- [DonutMaster](https://donutmaster.github.io/) - R&D Team.
-- [darkfly0213](https://github.com/darkfly02131) - R&D Team.
-- [Qurti](https://github.com/QurtiDev) - R&D Team.
-- [Vigorizante](https://tryhackme.com/p/Vigorizante) - R&D Team.
-- [Silastic](https://github.com/Silas-Xeransis) - R&D Team.
-- [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team.
+<!-- END DEVS & CONTRIBS-->
 
-## Changelogs
-- [25/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/25-07-2025.md)
-- [26/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md)
-- [27/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/27-07-2025.md)
+<!-- START CHANGELOGS -->
+<br />
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" style="text-align:center;">Changelogs</th>
+    </tr>
+    <tr>
+      <th>Minimum Viable Product (MVP)</th>
+      <th>Pre-Release</th>
+      <th>Release</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/25-07-2025.md">25/07/2025</a></td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">-</td>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md">26/07/2025</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">-</td>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/27-07-2025.md">27/07/2025</a></td>
+      <td align="center">-</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- END CHANGELOGS -->
+
+<br />
+
+<!-- Request & Support -->
 ## Certification Addition Request
 Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/vsUnG6EGku) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
 
