@@ -1,7 +1,8 @@
-<img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png">
 <h1 align="center">
-Security Certification Roadmap
+<span title="AI-Generated | Generated with Google Gemini."><img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png" /></span>
 </h1>
+
+## <p align="center">Security Certification Roadmap</p>
 
 Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s [renowned roadmap](https://github.com/PaulJerimy/SecCertRoadmapHTML).
 
@@ -26,7 +27,6 @@ Would you like to see a certification added to the list? Reach out to me directl
 ## Feedback & Support
 
 If you have any feedback or requests, please reach out to me on [Discord](https://discord.com/invite/vsUnG6EGku).
-
 
 ## License
 - This project is proprietary and closed-source.
