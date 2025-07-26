@@ -9,7 +9,7 @@
   
 Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
 
-| Devs & Contributors                                                             | Pre-Release UAT                                                       | Release                                                               |
+| Devs & Contributors                                                             | Pre-Release UAT                                                       | Release & Maintenance                                                 |
 |:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   |
 | [BITS](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev               | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |                                                                       |
@@ -29,13 +29,14 @@ Plan your InfoSec certification journey with this community-driven project, insp
 <table>
   <thead>
     <tr>
-      <th colspan="4" style="text-align:center;">Changelogs</th>
+      <th colspan="5" style="text-align:center;">Changelogs</th>
     </tr>
     <tr>
       <th>Date</th>
       <th>Minimum Viable Product (MVP)</th>
       <th>Pre-Release</th>
       <th>Release</th>
+      <th>Maintenance</th>
     </tr>
   </thead>
   <tbody>
@@ -44,17 +45,20 @@ Plan your InfoSec certification journey with this community-driven project, insp
       <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/25-07-2025.md">Release Notes</a></td>
       <td align="center">-</td>
       <td align="center">-</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">26/07/2025</td>
       <td align="center">-</td>
       <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md">Release Notes</a></td>
       <td align="center">-</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">27/07/2025</td>
       <td align="center">-</td>
       <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/27-07-2025.md">Release Notes</a></td>
+      <td align="center">-</td>
       <td align="center">-</td>
     </tr>
   </tbody>
