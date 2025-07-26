@@ -16,7 +16,8 @@ Plan your InfoSec certification journey with this community-driven project, insp
 - [Silastic](https://tryhackme.com/p/quadratary) - R&D Team.
 - [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team.
 
-
+## Changelogs
+- [25/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md)
 
 ## Feedback & Support
 
