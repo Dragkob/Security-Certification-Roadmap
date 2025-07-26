@@ -1,0 +1,9 @@
+Copyright © Dragkob 2025
+
+All rights reserved.
+
+This project and associated documentation files (the "project") are the proprietary property of Dragkob.
+
+Permission is NOT granted to any person or organization to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project.
+
+Unauthorized reproduction, distribution, reverse engineering, or use of this Software, in whole or in part, is strictly prohibited.
