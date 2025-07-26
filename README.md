@@ -13,7 +13,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 - [darkfly0213](https://github.com/darkfly02131) - R&D Team.
 - [Qurti](https://github.com/QurtiDev) - R&D Team.
 - [Vigorizante](https://tryhackme.com/p/Vigorizante) - R&D Team.
-- [Silastic](https://tryhackme.com/p/quadratary) - R&D Team.
+- [Silastic](https://github.com/Silas-Xeransis) - R&D Team.
 - [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team.
 
 ## Changelogs
