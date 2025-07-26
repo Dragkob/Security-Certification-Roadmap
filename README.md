@@ -20,6 +20,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 
 ## Changelogs
 - [26/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md)
+- [27-07-2025][https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/27-07-2025.md]
 
 ## Certification Addition Request
 Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/vsUnG6EGku) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
