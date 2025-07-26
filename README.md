@@ -1,6 +1,7 @@
 <h1 align="center">
 Security Certification Roadmap
 </h1>
+
 Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s [renowned roadmap](https://github.com/PaulJerimy/SecCertRoadmapHTML).
 
 ### Devs & Contributors
