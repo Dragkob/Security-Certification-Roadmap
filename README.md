@@ -1,3 +1,4 @@
+<img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png">
 <h1 align="center">
 Security Certification Roadmap
 </h1>
