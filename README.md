@@ -19,6 +19,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 - [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team.
 
 ## Changelogs
+- [25/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/25-07-2025.md)
 - [26/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/26-07-2025.md)
 - [27/07/2025](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/27-07-2025.md)
 
