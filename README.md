@@ -89,6 +89,25 @@ Plan your InfoSec certification journey with this community-driven project, insp
 
 <br />
 
+<table>
+    <thead>
+    <tr>
+      <th colspan="5" style="text-align:center;">Workload Distribution</th>
+    </tr>
+      <tr>
+        <th style="text-align:center;">Rollout</td>
+        <th style="text-align:center;">Workload</td>
+      </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td>Pre-Release</td>
+      <td><img style="width: 870px; height: auto;" src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/WorkloadPreRelease.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+
 <!-- Request & Support -->
 ## Certification Addition Request
 Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/QuPszM8KNM) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
