@@ -26,7 +26,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 <!-- START CHANGELOGS -->
 <br />
 
-<table style="width: 100%;">
+<table>
   <thead>
     <tr>
       <th colspan="5" style="text-align:center;">Changelogs</th>
@@ -36,7 +36,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
       <th>Minimum Viable Product (MVP)</th>
       <th>Pre-Release</th>
       <th>Release</th>
-      <th>Maintenance</th>
+      <th>Maintenance & Updates</th>
     </tr>
   </thead>
   <tbody>
@@ -91,9 +91,6 @@ Plan your InfoSec certification journey with this community-driven project, insp
 
 <table>
     <thead>
-    <tr>
-      <th colspan="5" style="text-align:center;">Workload Distribution</th>
-    </tr>
       <tr>
         <th style="text-align:center;">Rollout</td>
         <th style="text-align:center;">Workload</td>
