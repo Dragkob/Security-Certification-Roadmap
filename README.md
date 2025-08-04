@@ -102,7 +102,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
   <tbody>
     <tr>
       <td>Pre-Release</td>
-      <td><img style="width: 660px; height: auto;" src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/WorkloadPreRelease.png" /></td>
+      <td><img style="width: 680px; height: auto;" src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/WorkloadPreRelease.png" /></td>
     </tr>
   </tbody>
 </table>
