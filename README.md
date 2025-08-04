@@ -91,7 +91,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 
 <!-- Request & Support -->
 ## Certification Addition Request
-Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/vsUnG6EGku) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
+Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/QuPszM8KNM) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
 
 ## Certification Review Addition Request
 Interested in having your certification review featured under a specific credential? Reach out via [Discord](https://discord.com/invite/QuPszM8KNM) or complete [this submission form](https://forms.gle/KNM9X4Z8ZPNwNoKZ9) to share your review for consideration.
