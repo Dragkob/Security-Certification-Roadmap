@@ -113,8 +113,13 @@ Would you like to see a certification added to the list? Reach out to me directl
 ## Certification Review Addition Request
 Interested in having your certification review featured under a specific credential? Reach out via [Discord](https://discord.com/invite/QuPszM8KNM) or complete [this submission form](https://forms.gle/KNM9X4Z8ZPNwNoKZ9) to share your review for consideration.
 
-## Feedback & Support
+## Report Bug
+If you encounter any bugs, please complete the [form](https://forms.gle/7CLjgezPmgvhztqq7) to report them.
 
+## Feature Request
+If you have a feature you'd like to request or implement, please complete the following [form](https://forms.gle/F8Extq3nJtssBKQc8).
+
+## Feedback & Support
 If you have any feedback or requests, please reach out to me on [Discord](https://discord.com/invite/QuPszM8KNM).
 
 ## License
