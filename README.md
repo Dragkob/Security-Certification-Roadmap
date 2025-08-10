@@ -93,7 +93,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
       <td align="center">09/08/2025</td>
       <td align="center">-</td>
       <td align="center">-</td>
-      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/09-08-2025.md">Release Notes</a> - V1.0</td>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/09-08-2025.md">Release Notes</a></td>
       <td align="center">-</td>
     </tr>
   </tbody>
