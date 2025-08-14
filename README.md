@@ -117,7 +117,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
     </tr>
     <tr>
       <td style="text-align:center;">Release</td>
-      <td></td>
+      <td><img style="width: 690px; height: auto;" src="https://github.com/user-attachments/assets/239aedce-4c99-43dd-b2a4-d9c43a2eea0b "/></td>
     </tr>
   </tbody>
 </table>
