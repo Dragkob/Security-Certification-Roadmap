@@ -112,8 +112,12 @@ Plan your InfoSec certification journey with this community-driven project, insp
     </thead>
   <tbody>
     <tr>
-      <td>Pre-Release</td>
+      <td style="text-align:center;">Pre-Release</td>
       <td><img style="width: 690px; height: auto;" src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/Workload_PreRelease.gif" /></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Release</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
