@@ -14,7 +14,7 @@ Plan your InfoSec certification journey with this community-driven project, insp
 | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   |
 | [BITS](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev               | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |                                                                       |
 | [darkfly0213](https://github.com/darkfly02131) - R&D Team Lead                  | [0xchevalier](https://www.linkedin.com/in/0xchevalier/) - UAT Tester  |                                                                       |
-| [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team             |  [Tikka](https://github.com/rioaxi) - UAT Tester                      |                                                                       |
+| [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team             | [Tikka](https://github.com/rioaxi) - UAT Tester                       |                                                                       |
 | [DonutMaster](https://donutmaster.github.io/) - R&D Team                        |                                                                       |                                                                       |
 | [Slavetomints](https://slavetomints.com/) - R&D Team                            |                                                                       |                                                                       |
 | [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team           |                                                                       |                                                                       |
@@ -94,6 +94,13 @@ Plan your InfoSec certification journey with this community-driven project, insp
       <td align="center">-</td>
       <td align="center">-</td>
       <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/09-08-2025.md">Release Notes</a></td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">09/08/2025</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/14-08-2025.md">Release Notes</a></td>
       <td align="center">-</td>
     </tr>
   </tbody>
