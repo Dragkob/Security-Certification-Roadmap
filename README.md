@@ -6,13 +6,12 @@
 <!-- Core Content -->
 <!-- START DEVS & CONTRIBS-->
 
-  
-Plan your InfoSec certification journey with this community-driven project, inspired by [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
+Plan your InfoSec certification journey with this community-driven project, developed by Dragkob and his R&D team, drawing inspiration from [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
 
 | Devs & Contributors                                                             | Pre-Release UAT                                                       | Release & Maintenance                                                 |
 |:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   | [Dragkob](https://dragkob.com) - Project Creator/Lead, Dev & Funder   |
-| [BITS](https://bitsdigitalagency.com/) - Lead Designer & Lead Dev               | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |                                                                       |
+| [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder   | [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder   |
+| [BITS](https://bitsdigitalagency.com/) - Lead Designer & Initial Dev            | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |                                                                       |
 | [darkfly0213](https://github.com/darkfly02131) - R&D Team Lead                  | [0xchevalier](https://www.linkedin.com/in/0xchevalier/) - UAT Tester  |                                                                       |
 | [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team             | [Tikka](https://github.com/rioaxi) - UAT Tester                       |                                                                       |
 | [DonutMaster](https://donutmaster.github.io/) - R&D Team                        |                                                                       |                                                                       |
