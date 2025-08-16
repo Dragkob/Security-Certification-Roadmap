@@ -1,5 +1,7 @@
 # HR-Recognition Data
 
+<strong>⚠️ - This document is still under development.</strong>
+
 We have chosen to open-source our market research on HR-recognized certifications. This research is based on factual data drawn from job postings and their stated requirements. In addition, we have implemented a backup system for removed job postings, ensuring their original content remains accessible for review.
 
 <table>
@@ -33,23 +35,184 @@ We have chosen to open-source our market research on HR-recognized certification
 
 ## Data
 
-<table>
-  <thead>
-    <tr>
-      <th>Subregion</th>
-      <th>Subregion Code</th>
-      <th>Certification</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">South & South-West Asia</td>
-      <td align="center">SSWA</td>
-      <td align="center">OSCP</td>
-      <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI 1</a></td>
-    </tr>
-  </tbody>
-</table>
+ⓘ Unsure of your country's subregion? Please refer to [this document](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/World_Subregions.md) and use Ctrl+F to quickly locate your country's designated subregion.
 
+<table>
+   <thead>
+      <tr>
+         <th>Region</th>
+         <th>Subregion</th>
+         <th>Country</th>
+         <th>Certification</th>
+         <th>Link</th>
+         <th>Backup</th>
+      </tr>
+   </thead>
+   <tbody>
+      <!-- South & South-West Asia -->
+      <tr>
+         <td rowspan="19" align="center">Asia-Pacific (APAC)</td>
+         <td rowspan="15" align="center">South & South-West Asia (SSWA)</td>
+         <td rowspan="15" align="center">India</td>
+         <td align="center">OSCP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a><br>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a><br>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CPTS</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CRTP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a><br>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a><br>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CARTP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CRTE</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CRTO</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">OSEP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">OSED</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">GRTP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">GPEN</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CEH</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">eWPTX</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">eJPT</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CRTA</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">PNPT</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
+      </tr>
+      <tr>
+        <td rowspan="4" align="center">South-East Asia (SEA)</td>
+        <td rowspan="4" align="center">Malaysia</td>
+        <td align="center">CISSP</td>
+        <td>- <a href="https://www.linkedin.com/jobs/view/4074568841">LI</a></td>
+        <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEA_1.png">Image</a></td>
+      </tr>
+      <tr>
+        <td align="center">OSCP</td>
+        <td>- <a href="https://www.linkedin.com/jobs/view/4074568841">LI</a></td>
+        <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEA_1.png">Image</a></td>
+      </tr>
+      <tr>
+        <td align="center">CCSP</td>
+        <td>- <a href="https://www.linkedin.com/jobs/view/4074568841">LI</a></td>
+        <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEA_1.png">Image</a></td>
+      </tr>
+      <tr>
+        <td align="center">CISM</td>
+        <td>- <a href="https://www.linkedin.com/jobs/view/4074568841">LI</a></td>
+        <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEA_1.png">Image</a></td>
+      </tr>
+      <!-- Separator -->
+      <!-- Separator -->
+      <tr>
+         <td colspan="6"></td>
+      </tr>
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Northern Europe -->
+      <tr>
+         <td rowspan="4" align="center">Europe (EU)</td>
+         <td align="center">Northern Europe</td>
+         <td align="center">United Kingdom</td>
+         <td align="center">OSCP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4286453170">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_1.png">Image</a></td>
+      </tr>
+     <!-- Southern Europe -->
+      <tr>
+         <td rowspan ="3" align="center">Southern Europe</td>
+         <td rowspan="3" align="center">Italy</td>
+         <td align="center">OSCP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4283550303">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEU_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CRTO</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4283550303">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEU_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">OSCE³</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4283550303">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEU_1.png">Image</a></td>
+      </tr>
+      <!-- Separator -->
+      <tr>
+         <td colspan="6"></td>
+      </tr>
+      <!-- Separator -->
+      <!-- Northern America -->
+      <tr>
+         <td rowspan="3" align="center">North America (NA)</td>
+         <td rowspan="3" align="center">Northern America</td>
+         <td rowspan="3" align="center">United States</td>
+         <td align="center">OSCP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4285927809">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">CEH</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4285927809">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NA_1.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">OSCE³</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4285927809">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NA_1.png">Image</a></td>
+      </tr>
+      <!-- Separator -->
+      <tr>
+         <td colspan="6"></td>
+      </tr>
+     
+   </tbody>
+</table>
 
