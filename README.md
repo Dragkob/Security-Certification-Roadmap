@@ -120,19 +120,19 @@ Plan your InfoSec certification journey with this community-driven project, deve
     <tr>
       <td align="center">Pre-Release</td>
       <td align="center">
-        <img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/Workload_PreRelease.gif" width="690" />
+        <img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/Workload_PreRelease.gif" width="670" />
       </td>
     </tr>
     <tr>
       <td align="center">Release</td>
       <td align="center">
-        <img alt="Release_Workload" src="https://github.com/user-attachments/assets/b874f6ab-06e4-49e1-8c1f-efe3ace8f271" width="690" />
+        <img alt="Release_Workload" src="https://github.com/user-attachments/assets/b874f6ab-06e4-49e1-8c1f-efe3ace8f271" width="670" />
       </td>
     </tr>
     <tr>
       <td align="center">Maintenance & Updates</td>
       <td align="center">
-        <img height="450" alt="Maint Updates" src="https://github.com/user-attachments/assets/93ae9ad1-3816-4de7-b66e-13a33c6d0834" width="690" />
+        <img height="450" alt="Maint Updates" src="https://github.com/user-attachments/assets/93ae9ad1-3816-4de7-b66e-13a33c6d0834" width="670" />
       </td>
     </tr>
     <tr>
