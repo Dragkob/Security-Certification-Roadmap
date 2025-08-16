@@ -110,20 +110,30 @@ Plan your InfoSec certification journey with this community-driven project, deve
 <br />
 
 <table>
-    <thead>
-      <tr>
-        <th style="text-align:center;">Rollout</td>
-        <th style="text-align:center;">Workload</td>
-      </tr>
-    </thead>
+  <thead>
+    <tr>
+      <th align="center">Rollout</th>
+      <th align="center">Workload</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;">Pre-Release</td>
-      <td><img style="width: 690px; height: auto;" src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/Workload_PreRelease.gif" /></td>
+      <td align="center">Pre-Release</td>
+      <td align="center">
+        <img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/Workload_PreRelease.gif" width="690" />
+      </td>
     </tr>
     <tr>
-      <td style="text-align:center;">Release</td>
-      <td><img style="width: 690px; height: auto;" src="https://github.com/user-attachments/assets/239aedce-4c99-43dd-b2a4-d9c43a2eea0b "/></td>
+      <td align="center">Release</td>
+      <td align="center">
+        <img alt="Release_Workload" src="https://github.com/user-attachments/assets/b874f6ab-06e4-49e1-8c1f-efe3ace8f271" width="690" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Maintenance & Updates</td>
+      <td align="center">
+        <img height="450" alt="Maint Updates" src="https://github.com/user-attachments/assets/93ae9ad1-3816-4de7-b66e-13a33c6d0834" width="690" />
+      </td>
     </tr>
   </tbody>
 </table>
