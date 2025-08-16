@@ -36,18 +36,19 @@ We have chosen to open-source our market research on HR-recognized certification
 <table>
   <thead>
     <tr>
-      <th>Region</th>
-      <th>Region Code</th>
+      <th>Subregion</th>
+      <th>Subregion Code</th>
       <th>Certification</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">European Union</td>
-      <td align="center">EU</td>
+      <td align="center">South & South-West Asia</td>
+      <td align="center">SSWA</td>
       <td align="center">OSCP</td>
-      <td>- <a href="https://example.com">LI 1</a></td>
+      <td>- <a href="https://www.linkedin.com/jobs/view/4268099353">LI 1</a></td>
     </tr>
   </tbody>
 </table>
+
