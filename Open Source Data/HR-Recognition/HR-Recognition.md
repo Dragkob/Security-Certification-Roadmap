@@ -51,7 +51,7 @@ We have chosen to open-source our market research on HR-recognized certification
    <tbody>
       <!-- South & South-West Asia -->
       <tr>
-         <td rowspan="19" align="center">Asia-Pacific (APAC)</td>
+         <td rowspan="20" align="center">Asia-Pacific (APAC)</td>
          <td rowspan="15" align="center">South & South-West Asia (SSWA)</td>
          <td rowspan="15" align="center">India</td>
          <td align="center">OSCP</td>
@@ -128,6 +128,15 @@ We have chosen to open-source our market research on HR-recognized certification
          <td>- <a href="https://www.linkedin.com/jobs/view/4279465601">LI</a></td>
          <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SSWA_2.png">Image</a></td>
       </tr>
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+     <tr>
+       <td colspan="5"></td>
+     </tr>
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
       <tr>
         <td rowspan="4" align="center">South-East Asia (SEA)</td>
         <td rowspan="4" align="center">Malaysia</td>
@@ -152,20 +161,37 @@ We have chosen to open-source our market research on HR-recognized certification
       </tr>
       <!-- Separator -->
       <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
       <tr>
-         <td colspan="6"></td>
+         <td colspan="6">
+           <br>
+         </td>
       </tr>
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
       <!-- Separator -->
       <!-- Separator -->
       <!-- Northern Europe -->
       <tr>
-         <td rowspan="4" align="center">Europe (EU)</td>
+         <td rowspan="5" align="center">Europe (EU)</td>
          <td align="center">Northern Europe</td>
          <td align="center">United Kingdom</td>
          <td align="center">OSCP</td>
          <td>- <a href="https://www.linkedin.com/jobs/view/4286453170">LI</a></td>
          <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_1.png">Image</a></td>
       </tr>
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+     <tr>
+       <td colspan="5"></td>
+     </tr>
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
+      <!-- INNER Separator -->
      <!-- Southern Europe -->
       <tr>
          <td rowspan ="3" align="center">Southern Europe</td>
@@ -185,9 +211,19 @@ We have chosen to open-source our market research on HR-recognized certification
          <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/SEU_1.png">Image</a></td>
       </tr>
       <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
       <tr>
-         <td colspan="6"></td>
+         <td colspan="6">
+           <br>
+         </td>
       </tr>
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
       <!-- Separator -->
       <!-- Northern America -->
       <tr>
@@ -209,10 +245,22 @@ We have chosen to open-source our market research on HR-recognized certification
          <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NA_1.png">Image</a></td>
       </tr>
       <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
       <tr>
-         <td colspan="6"></td>
+         <td colspan="6">
+           <br>
+         </td>
       </tr>
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
+      <!-- Separator -->
      
    </tbody>
 </table>
+
 
