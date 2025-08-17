@@ -1,24 +1,68 @@
 <!-- Picture + Title + Separator -->
 <span title="AI-Generated | Generated with Google Gemini."><img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png" /></span>
 # 
-<h2 align="center"><p>Security Certification Roadmap</p></h2>
+<h2 align="center"><p>📜 Security Certification Roadmap 📜</p></h2>
+
+Plan your InfoSec certification journey with this community-driven project, developed by Dragkob and his R&D team, drawing inspiration from [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
 
 <!-- Core Content -->
 <!-- START DEVS & CONTRIBS-->
 
-Plan your InfoSec certification journey with this community-driven project, developed by Dragkob and his R&D team, drawing inspiration from [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
+<table>
+   <tr>
+      <th align="center">🧑‍💻 Devs & Contributors</th>
+      <th align="center">👤 Pre-Release UAT</th>
+      <th align="center">🛠️ Maintenance & Support</th>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://dragkob.com">Dragkob</a> - Project Creator, Lead Dev & Funder</td>
+      <td align="center"><a href="https://dragkob.com">Dragkob</a> - Project Creator, Lead Dev & Funder</td>
+      <td align="center" rowspan="4">
+         Contact DKob - <a href="https://discord.com/invite/QuPszM8KNM"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg" alt="Discord Logo" width="16"></a>
+      </td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://bitsdigitalagency.com/">BITS</a> - Lead Designer & Initial Dev</td>
+      <td align="center"><a href="https://www.linkedin.com/in/chick3nman/">chick3nman</a> - UAT Tester</td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://github.com/darkfly02131">darkfly0213</a> - R&D Team Lead</td>
+      <td align="center"><a href="https://www.linkedin.com/in/0xchevalier/">0xchevalier</a> - UAT Tester</td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://tryhackme.com/p/DenialAndError">DenialAndError</a> - R&D Team</td>
+      <td align="center"><a href="https://github.com/rioaxi">Tikka</a> - UAT Tester</td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://donutmaster.github.io/">DonutMaster</a> - R&D Team</td>
+      <td align="center"></td>
+      <td rowspan="5">
+         <div align="center"><strong>Forms</strong></div>
+         - <a href="https://forms.gle/KNM9X4Z8ZPNwNoKZ9">Certification Review Addition Request</a><br>
+         - <a href="https://forms.gle/Mawf3SZCpDGjQ6ft5">Certification Addition Request</a><br>
+         - <a href="https://discord.com/invite/QuPszM8KNM">Feedback & Support</a><br>
+         - <a href="https://forms.gle/F8Extq3nJtssBKQc8">Feature Request</a><br>
+         - <a href="https://forms.gle/7CLjgezPmgvhztqq7">Report Bug</a><br>
+      </td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://slavetomints.com/">Slavetomints</a> - R&D Team</td>
+      <td align="center"></td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/joaquin-ocampo26/">0xCryptic</a> - R&D Team</td>
+      <td align="center"></td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://github.com/Silas-Xeransis">Silastic</a> - R&D Team</td>
+      <td align="center"></td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://github.com/QurtiDev">Qurti</a> - R&D Team</td>
+      <td align="center"></td>
+   </tr>
+</table>
 
-| Devs & Contributors                                                             | Pre-Release UAT                                                       | Release & Maintenance                                                 |
-|:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder             | [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder   | [Dragkob](https://dragkob.com) - Project Creator, Lead Dev & Funder   |
-| [BITS](https://bitsdigitalagency.com/) - Lead Designer & Initial Dev            | [chick3nman](https://www.linkedin.com/in/chick3nman/) - UAT Tester    |                                                                       |
-| [darkfly0213](https://github.com/darkfly02131) - R&D Team Lead                  | [0xchevalier](https://www.linkedin.com/in/0xchevalier/) - UAT Tester  |                                                                       |
-| [DenialAndError](https://tryhackme.com/p/DenialAndError) - R&D Team             | [Tikka](https://github.com/rioaxi) - UAT Tester                       |                                                                       |
-| [DonutMaster](https://donutmaster.github.io/) - R&D Team                        |                                                                       |                                                                       |
-| [Slavetomints](https://slavetomints.com/) - R&D Team                            |                                                                       |                                                                       |
-| [0xCryptic](https://www.linkedin.com/in/joaquin-ocampo26/) - R&D Team           |                                                                       |                                                                       |
-| [Silastic](https://github.com/Silas-Xeransis) - R&D Team                        |                                                                       |                                                                       |
-| [Qurti](https://github.com/QurtiDev) - R&D Team                                 |                                                                       |                                                                       |
 
 <!-- END DEVS & CONTRIBS-->
 
@@ -147,25 +191,6 @@ Plan your InfoSec certification journey with this community-driven project, deve
     </tr>
   </tbody>
 </table>
-
-
-<br />
-
-<!-- Request & Support -->
-## Certification Addition Request
-Would you like to see a certification added to the list? Reach out to me directly on [Discord](https://discord.com/invite/QuPszM8KNM) or fill out [this form](https://forms.gle/Mawf3SZCpDGjQ6ft5).
-
-## Certification Review Addition Request
-Interested in having your certification review featured under a specific credential? Reach out via [Discord](https://discord.com/invite/QuPszM8KNM) or complete [this submission form](https://forms.gle/KNM9X4Z8ZPNwNoKZ9) to share your review for consideration.
-
-## Report Bug
-If you encounter any bugs, please complete the [form](https://forms.gle/7CLjgezPmgvhztqq7) to report them.
-
-## Feature Request
-If you have a feature you'd like to request or implement, please complete the following [form](https://forms.gle/F8Extq3nJtssBKQc8).
-
-## Feedback & Support
-If you have any feedback or requests, please reach out to me on [Discord](https://discord.com/invite/QuPszM8KNM).
 
 ## License
 - This project is proprietary and closed-source.
