@@ -16,7 +16,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
    </tr>
    <tr>
       <td align="center"><a href="https://dragkob.com">Dragkob</a> - Project Creator & Lead Dev</td>
-      <td align="center"><a href="https://dragkob.com">Dragkob</a> - Lead Dev & Tester</td>
+      <td align="center"><a href="https://dragkob.com">Dragkob</a> - Lead Dev & Lead Tester</td>
       <td align="center" rowspan="4">
          Contact DKob - <a href="https://discord.com/invite/QuPszM8KNM"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e278299a53f5bf88615e90_Symbol.svg" alt="Discord Logo" width="16"></a>
       </td>
