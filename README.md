@@ -172,19 +172,19 @@ Plan your InfoSec certification journey with this community-driven project, deve
    </thead>
    <tbody>
       <tr>
-         <td>HR-Recognition Data</td>
-         <td>This document presents the data utilized for certification tracking, detailing HR recognition status and the corresponding regions of recognition.</td>
-         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/HR-Recognition.md">Document</a></td>
+         <td align="center">HR-Recognition Data</td>
+         <td align="center">This document presents the data utilized for certification tracking, detailing HR recognition status and the corresponding regions of recognition.</td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/HR-Recognition.md">Document</a></td>
       </tr>
       <tr>
-         <td>World Subregions</td>
-         <td>The World Subregions document is designed to assist users in determining the subregion corresponding to their country.</td>
-         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md">Document</a></td>
+         <td align="center">World Subregions</td>
+         <td align="center">The World Subregions document is designed to assist users in determining the subregion corresponding to their country.</td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md">Document</a></td>
       </tr>
       <tr>
-         <td>Job Postings Backup</td>
-         <td>This folder has been established to maintain archival copies of job postings, as the links referenced in the Open Source Data document are subject to expiration or removal. Retaining these copies ensures that users can verify the information when required.</td>
-         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup">Document</a></td>
+         <td align="center">Job Postings Backup</td>
+         <td align="center">This folder has been established to maintain archival copies of job postings, as the links referenced in the Open Source Data document are subject to expiration or removal. Retaining these copies ensures that users can verify the information when required.</td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup">Document</a></td>
       </tr>
    </tbody>
 </table>
