@@ -1,36 +1,58 @@
 # EMEA (Europe, the Middle East, and Africa)
 
 ## Europe
-- **Northern Europe:** Denmark, Estonia, Finland, Iceland, Ireland, Latvia, Lithuania, Norway, Sweden, United Kingdom  
-- **Western Europe:** Austria, Belgium, France, Germany, Luxembourg, Netherlands, Switzerland, Gibraltar, Monaco  
-- **Central Europe:** Czech Republic, Hungary, Poland, Slovakia  
-- **Eastern Europe:** Belarus, Moldova, Russia, Ukraine  
-- **Southern Europe:** Albania, Andorra, Bosnia and Herzegovina, Croatia, Greece, Italy, Malta, Montenegro, North Macedonia, Portugal, Serbia, Slovenia, Spain  
-- **South-Eastern Europe:** Turkey, Bulgaria, Romania  
+- **Northern Europe:** Denmark ![Denmark](https://flagcdn.com/w20/dk.png) | Estonia ![Estonia](https://flagcdn.com/w20/ee.png) | Finland ![Finland](https://flagcdn.com/w20/fi.png) | Iceland ![Iceland](https://flagcdn.com/w20/is.png) | Ireland ![Ireland](https://flagcdn.com/w20/ie.png) | Latvia ![Latvia](https://flagcdn.com/w20/lv.png) | Lithuania ![Lithuania](https://flagcdn.com/w20/lt.png) | Norway ![Norway](https://flagcdn.com/w20/no.png) | Sweden ![Sweden](https://flagcdn.com/w20/se.png) | United Kingdom ![UK](https://flagcdn.com/w20/gb.png)
+
+- **Western Europe:** Austria ![Austria](https://flagcdn.com/w20/at.png) | Belgium ![Belgium](https://flagcdn.com/w20/be.png) | France ![France](https://flagcdn.com/w20/fr.png) | Germany ![Germany](https://flagcdn.com/w20/de.png) | Luxembourg ![Luxembourg](https://flagcdn.com/w20/lu.png) | Netherlands ![Netherlands](https://flagcdn.com/w20/nl.png) | Switzerland ![Switzerland](https://flagcdn.com/w20/ch.png) | Gibraltar ![Gibraltar](https://flagcdn.com/w20/gi.png) | Monaco ![Monaco](https://flagcdn.com/w20/mc.png)
+
+- **Central Europe:** Czech Republic ![Czech Republic](https://flagcdn.com/w20/cz.png) | Hungary ![Hungary](https://flagcdn.com/w20/hu.png) | Poland ![Poland](https://flagcdn.com/w20/pl.png) | Slovakia ![Slovakia](https://flagcdn.com/w20/sk.png)
+
+- **Eastern Europe:** Belarus ![Belarus](https://flagcdn.com/w20/by.png) | Moldova ![Moldova](https://flagcdn.com/w20/md.png) | Russia ![Russia](https://flagcdn.com/w20/ru.png) | Ukraine ![Ukraine](https://flagcdn.com/w20/ua.png)
+
+- **Southern Europe:** Albania ![Albania](https://flagcdn.com/w20/al.png) | Andorra ![Andorra](https://flagcdn.com/w20/ad.png) | Bosnia and Herzegovina ![Bosnia](https://flagcdn.com/w20/ba.png) | Croatia ![Croatia](https://flagcdn.com/w20/hr.png) | Greece ![Greece](https://flagcdn.com/w20/gr.png) | Italy ![Italy](https://flagcdn.com/w20/it.png) | Malta ![Malta](https://flagcdn.com/w20/mt.png) | Montenegro ![Montenegro](https://flagcdn.com/w20/me.png) | North Macedonia ![North Macedonia](https://flagcdn.com/w20/mk.png) | Portugal ![Portugal](https://flagcdn.com/w20/pt.png) | Serbia ![Serbia](https://flagcdn.com/w20/rs.png) | Slovenia ![Slovenia](https://flagcdn.com/w20/sl.png) | Spain ![Spain](https://flagcdn.com/w20/es.png)
+
+- **South-Eastern Europe:** Turkey ![Turkey](https://flagcdn.com/w20/tr.png) | Bulgaria ![Bulgaria](https://flagcdn.com/w20/bg.png) | Romania ![Romania](https://flagcdn.com/w20/ro.png)
+
 
 ## Middle East
-- **Arabian Peninsula:** Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates, Yemen  
-- **Levant:** Cyprus, Israel, Jordan, Lebanon, Palestine, Syria  
-- **Caucasus:** Armenia, Azerbaijan, Georgia  
+- **Arabian Peninsula:** Bahrain ![Bahrain](https://flagcdn.com/w20/bh.png) | Kuwait ![Kuwait](https://flagcdn.com/w20/kw.png) | Oman ![Oman](https://flagcdn.com/w20/om.png) | Qatar ![Qatar](https://flagcdn.com/w20/qa.png) | Saudi Arabia ![Saudi Arabia](https://flagcdn.com/w20/sa.png) | United Arab Emirates ![UAE](https://flagcdn.com/w20/ae.png) | Yemen ![Yemen](https://flagcdn.com/w20/ye.png)
+
+- **Levant:** Cyprus ![Cyprus](https://flagcdn.com/w20/cy.png) | Israel ![Israel](https://flagcdn.com/w20/il.png) | Jordan ![Jordan](https://flagcdn.com/w20/jo.png) | Lebanon ![Lebanon](https://flagcdn.com/w20/lb.png) | Palestine ![Palestine](https://flagcdn.com/w20/ps.png) | Syria ![Syria](https://flagcdn.com/w20/sy.png)
+
+- **Caucasus:** Armenia ![Armenia](https://flagcdn.com/w20/am.png) | Azerbaijan ![Azerbaijan](https://flagcdn.com/w20/az.png) | Georgia ![Georgia](https://flagcdn.com/w20/ge.png)
+
 
 ## Africa
-- **Northern Africa:** Algeria, Egypt, Libya, Mauritania, Morocco, Sudan, Tunisia, Western Sahara  
-- **Eastern Africa:** Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mozambique, Seychelles, Somalia, Tanzania, Uganda, Zambia, Zimbabwe  
-- **Middle Africa:** Angola, Cameroon, Central African Republic, Chad, Congo (Republic), Democratic Republic of the Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe  
-- **Southern Africa:** Botswana, Eswatini, Lesotho, Namibia, South Africa  
-- **Western Africa:** Benin, Burkina Faso, Cape Verde, Ivory Coast, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo  
+- **Northern Africa:** Algeria ![Algeria](https://flagcdn.com/w20/dz.png) | Egypt ![Egypt](https://flagcdn.com/w20/eg.png) | Libya ![Libya](https://flagcdn.com/w20/ly.png) | Mauritania ![Mauritania](https://flagcdn.com/w20/mr.png) | Morocco ![Morocco](https://flagcdn.com/w20/ma.png) | Sudan ![Sudan](https://flagcdn.com/w20/sd.png) | Tunisia ![Tunisia](https://flagcdn.com/w20/tn.png) | Western Sahara ![Western Sahara](https://flagcdn.com/w20/eh.png)
+
+- **Eastern Africa:** Comoros ![Comoros](https://flagcdn.com/w20/km.png) | Djibouti ![Djibouti](https://flagcdn.com/w20/dj.png) | Eritrea ![Eritrea](https://flagcdn.com/w20/er.png) | Ethiopia ![Ethiopia](https://flagcdn.com/w20/et.png) | Kenya ![Kenya](https://flagcdn.com/w20/ke.png) | Madagascar ![Madagascar](https://flagcdn.com/w20/mg.png) | Malawi ![Malawi](https://flagcdn.com/w20/mw.png) | Mauritius ![Mauritius](https://flagcdn.com/w20/mu.png) | Mozambique ![Mozambique](https://flagcdn.com/w20/mz.png) | Seychelles ![Seychelles](https://flagcdn.com/w20/sc.png) | Somalia ![Somalia](https://flagcdn.com/w20/so.png) | Tanzania ![Tanzania](https://flagcdn.com/w20/tz.png) | Uganda ![Uganda](https://flagcdn.com/w20/ug.png) | Zambia ![Zambia](https://flagcdn.com/w20/zm.png) | Zimbabwe ![Zimbabwe](https://flagcdn.com/w20/zw.png)
+
+- **Middle Africa:** Angola ![Angola](https://flagcdn.com/w20/ao.png) | Cameroon ![Cameroon](https://flagcdn.com/w20/cm.png) | Central African Republic ![CAR](https://flagcdn.com/w20/cf.png) | Chad ![Chad](https://flagcdn.com/w20/td.png) | Congo (Republic) ![Congo](https://flagcdn.com/w20/cg.png) | Democratic Republic of the Congo ![DRC](https://flagcdn.com/w20/cd.png) | Equatorial Guinea ![Equatorial Guinea](https://flagcdn.com/w20/gq.png) | Gabon ![Gabon](https://flagcdn.com/w20/ga.png) | São Tomé and Príncipe ![São Tomé and Príncipe](https://flagcdn.com/w20/st.png)
+
+- **Southern Africa:** Botswana ![Botswana](https://flagcdn.com/w20/bw.png) | Eswatini ![Eswatini](https://flagcdn.com/w20/sz.png) | Lesotho ![Lesotho](https://flagcdn.com/w20/ls.png) | Namibia ![Namibia](https://flagcdn.com/w20/na.png) | South Africa ![South Africa](https://flagcdn.com/w20/za.png)
+
+- **Western Africa:** Benin ![Benin](https://flagcdn.com/w20/bj.png) | Burkina Faso ![Burkina Faso](https://flagcdn.com/w20/bf.png) | Cape Verde ![Cape Verde](https://flagcdn.com/w20/cv.png) | Ivory Coast ![Ivory Coast](https://flagcdn.com/w20/ci.png) | Gambia ![Gambia](https://flagcdn.com/w20/gm.png) | Ghana ![Ghana](https://flagcdn.com/w20/gh.png) | Guinea ![Guinea](https://flagcdn.com/w20/gn.png) | Guinea-Bissau ![Guinea-Bissau](https://flagcdn.com/w20/gw.png) | Liberia ![Liberia](https://flagcdn.com/w20/lr.png) | Mali ![Mali](https://flagcdn.com/w20/ml.png) | Niger ![Niger](https://flagcdn.com/w20/ne.png) | Nigeria ![Nigeria](https://flagcdn.com/w20/ng.png) | Senegal ![Senegal](https://flagcdn.com/w20/sn.png) | Sierra Leone ![Sierra Leone](https://flagcdn.com/w20/sl.png) | Togo ![Togo](https://flagcdn.com/w20/tg.png)
+
 
 # NA (North America)
-- **Northern America:** Canada, United States, Bermuda  
-- **Central America:** Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama  
-- **Caribbean:** Antigua and Barbuda, Aruba, Bahamas, Barbados, Cuba, Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Jamaica, Martinique, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten, Trinidad and Tobago, French Guiana  
+- **Northern America:** Canada ![Canada](https://flagcdn.com/w20/ca.png) | United States ![United States](https://flagcdn.com/w20/us.png) | Bermuda ![Bermuda](https://flagcdn.com/w20/bm.png)
+
+- **Central America:** Belize ![Belize](https://flagcdn.com/w20/bz.png) | Costa Rica ![Costa Rica](https://flagcdn.com/w20/cr.png) | El Salvador ![El Salvador](https://flagcdn.com/w20/sv.png) | Guatemala ![Guatemala](https://flagcdn.com/w20/gt.png) | Honduras ![Honduras](https://flagcdn.com/w20/hn.png) | Mexico ![Mexico](https://flagcdn.com/w20/mx.png) | Nicaragua ![Nicaragua](https://flagcdn.com/w20/ni.png) | Panama ![Panama](https://flagcdn.com/w20/pa.png)
+
+- **Caribbean:** Antigua and Barbuda ![Antigua and Barbuda](https://flagcdn.com/w20/ag.png) | Aruba ![Aruba](https://flagcdn.com/w20/aw.png) | Bahamas ![Bahamas](https://flagcdn.com/w20/bs.png) | Barbados ![Barbados](https://flagcdn.com/w20/bb.png) | Cuba ![Cuba](https://flagcdn.com/w20/cu.png) | Dominica ![Dominica](https://flagcdn.com/w20/dm.png) | Dominican Republic ![Dominican Republic](https://flagcdn.com/w20/do.png) | Grenada ![Grenada](https://flagcdn.com/w20/gd.png) | Guadeloupe ![Guadeloupe](https://flagcdn.com/w20/gp.png) | Haiti ![Haiti](https://flagcdn.com/w20/ht.png) | Jamaica ![Jamaica](https://flagcdn.com/w20/jm.png) | Martinique ![Martinique](https://flagcdn.com/w20/mq.png) | Puerto Rico ![Puerto Rico](https://flagcdn.com/w20/pr.png) | Saint Kitts and Nevis ![Saint Kitts and Nevis](https://flagcdn.com/w20/kn.png) | Saint Lucia ![Saint Lucia](https://flagcdn.com/w20/lc.png) | Saint Martin ![Saint Martin](https://flagcdn.com/w20/mf.png) | Saint Pierre and Miquelon ![Saint Pierre and Miquelon](https://flagcdn.com/w20/pm.png) | Saint Vincent and the Grenadines ![Saint Vincent and the Grenadines](https://flagcdn.com/w20/vc.png) | Sint Maarten ![Sint Maarten](https://flagcdn.com/w20/sx.png) | Trinidad and Tobago ![Trinidad and Tobago](https://flagcdn.com/w20/tt.png) | French Guiana ![French Guiana](https://flagcdn.com/w20/gf.png)
+
 
 # LATAM (Latin America)
-- **South America:** Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela  
+- **South America:** Argentina ![Argentina](https://flagcdn.com/w20/ar.png) | Bolivia ![Bolivia](https://flagcdn.com/w20/bo.png) | Brazil ![Brazil](https://flagcdn.com/w20/br.png) | Chile ![Chile](https://flagcdn.com/w20/cl.png) | Colombia ![Colombia](https://flagcdn.com/w20/co.png) | Ecuador ![Ecuador](https://flagcdn.com/w20/ec.png) | Guyana ![Guyana](https://flagcdn.com/w20/gy.png) | Paraguay ![Paraguay](https://flagcdn.com/w20/py.png) | Peru ![Peru](https://flagcdn.com/w20/pe.png) | Suriname ![Suriname](https://flagcdn.com/w20/sr.png) | Uruguay ![Uruguay](https://flagcdn.com/w20/uy.png) | Venezuela ![Venezuela](https://flagcdn.com/w20/ve.png)
+ 
 
 # APAC (Asia-Pacific)
-- **East & North-East Asia (ENEA):** China, North Korea, Hong Kong, Japan, Macao, Mongolia, South Korea, Taiwan  
-- **North & Central Asia (NCA):** Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan  
-- **South & South-West Asia (SSWA):** Afghanistan, Bangladesh, Bhutan, India, Iran, Maldives, Nepal, Pakistan, Sri Lanka  
-- **South-East Asia (SEA):** Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Vietnam  
-- **The Pacific:** Australia, Fiji, Kiribati, Marshall Islands, Micronesia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu  
+- **East & North-East Asia (ENEA):** China ![China](https://flagcdn.com/w20/cn.png) | North Korea ![North Korea](https://flagcdn.com/w20/kp.png) | Hong Kong ![Hong Kong](https://flagcdn.com/w20/hk.png) | Japan ![Japan](https://flagcdn.com/w20/jp.png) | Macao ![Macao](https://flagcdn.com/w20/mo.png) | Mongolia ![Mongolia](https://flagcdn.com/w20/mn.png) | South Korea ![South Korea](https://flagcdn.com/w20/kr.png) | Taiwan ![Taiwan](https://flagcdn.com/w20/tw.png)
+
+- **North & Central Asia (NCA):** Kazakhstan ![Kazakhstan](https://flagcdn.com/w20/kz.png) | Kyrgyzstan ![Kyrgyzstan](https://flagcdn.com/w20/kg.png) | Tajikistan ![Tajikistan](https://flagcdn.com/w20/tj.png) | Turkmenistan ![Turkmenistan](https://flagcdn.com/w20/tm.png) | Uzbekistan ![Uzbekistan](https://flagcdn.com/w20/uz.png)
+
+- **South & South-West Asia (SSWA):** Afghanistan ![Afghanistan](https://flagcdn.com/w20/af.png) | Bangladesh ![Bangladesh](https://flagcdn.com/w20/bd.png) | Bhutan ![Bhutan](https://flagcdn.com/w20/bt.png) | India ![India](https://flagcdn.com/w20/in.png) | Iran ![Iran](https://flagcdn.com/w20/ir.png) | Maldives ![Maldives](https://flagcdn.com/w20/mv.png) | Nepal ![Nepal](https://flagcdn.com/w20/np.png) | Pakistan ![Pakistan](https://flagcdn.com/w20/pk.png) | Sri Lanka ![Sri Lanka](https://flagcdn.com/w20/lk.png)
+
+- **South-East Asia (SEA):** Brunei ![Brunei](https://flagcdn.com/w20/bn.png) | Cambodia ![Cambodia](https://flagcdn.com/w20/kh.png) | Indonesia ![Indonesia](https://flagcdn.com/w20/id.png) | Laos ![Laos](https://flagcdn.com/w20/la.png) | Malaysia ![Malaysia](https://flagcdn.com/w20/my.png) | Myanmar ![Myanmar](https://flagcdn.com/w20/mm.png) | Philippines ![Philippines](https://flagcdn.com/w20/ph.png) | Singapore ![Singapore](https://flagcdn.com/w20/sg.png) | Thailand ![Thailand](https://flagcdn.com/w20/th.png) | Timor-Leste ![Timor-Leste](https://flagcdn.com/w20/tl.png) | Vietnam ![Vietnam](https://flagcdn.com/w20/vn.png)
+
+- **The Pacific:** Australia ![Australia](https://flagcdn.com/w20/au.png) | Fiji ![Fiji](https://flagcdn.com/w20/fj.png) | Kiribati ![Kiribati](https://flagcdn.com/w20/ki.png) | Marshall Islands ![Marshall Islands](https://flagcdn.com/w20/mh.png) | Micronesia ![Micronesia](https://flagcdn.com/w20/fm.png) | Nauru ![Nauru](https://flagcdn.com/w20/nr.png) | New Zealand ![New Zealand](https://flagcdn.com/w20/nz.png) | Palau ![Palau](https://flagcdn.com/w20/pw.png) | Papua New Guinea ![Papua New Guinea](https://flagcdn.com/w20/pg.png) | Samoa ![Samoa](https://flagcdn.com/w20/ws.png) | Solomon Islands ![Solomon Islands](https://flagcdn.com/w20/sb.png) | Tonga ![Tonga](https://flagcdn.com/w20/to.png) | Tuvalu ![Tuvalu](https://flagcdn.com/w20/tv.png) | Vanuatu ![Vanuatu](https://flagcdn.com/w20/vu.png)
