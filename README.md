@@ -174,17 +174,17 @@ Plan your InfoSec certification journey with this community-driven project, deve
       <tr>
          <td align="center">HR-Recognition Data</td>
          <td align="center">This document presents the data utilized for certification tracking, detailing HR recognition status and the corresponding regions of recognition.</td>
-         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/HR-Recognition.md">Document</a></td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/HR-Recognition.md"><img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f517_color.png" width="20px" /></a></td>
       </tr>
       <tr>
          <td align="center">World Subregions</td>
          <td align="center">The World Subregions document is designed to assist users in determining the subregion corresponding to their country.</td>
-         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md">Document</a></td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md"><img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f517_color.png" width="20px" /></a></td>
       </tr>
       <tr>
          <td align="center">Job Postings Backup</td>
          <td align="center">This folder has been established to maintain archival copies of job postings, as the links referenced in the Open Source Data document are subject to expiration or removal. Retaining these copies ensures that users can verify the information when required.</td>
-         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup">Document</a></td>
+         <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup" text-decoration="none"><img src="https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f517_color.png" width="20px" /></a></td>
       </tr>
    </tbody>
 </table>
