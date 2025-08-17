@@ -51,23 +51,38 @@ We have chosen to open-source our market research on HR-recognized certification
    <tbody>
       <!-- Northern Europe -->
       <tr>
-         <td rowspan="9" align="center">Europe (EU)</td>
-         <td rowspan="2" align="center">Northern Europe</td>
-         <td rowspan="2" align="center"><img src="https://flagcdn.com/w20/gb.png" alt="UK Flag"> - United Kingdom</td>
+         <td rowspan="13" align="center">Europe (EU)</td>
+         <td rowspan="5" align="center">Northern Europe</td>
+         <td rowspan="5" align="center"><img src="https://flagcdn.com/w20/gb.png" alt="UK Flag"> - United Kingdom</td>
          <td align="center">OSCP</td>
          <td>- <a href="https://www.linkedin.com/jobs/view/4286453170">LI</a></td>
          <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_1.png">Image</a></td>
       </tr>
       <tr>
+         <td align="center">OSEP</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4277636064/">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_3.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">OSCE³</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4277636064/">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_3.png">Image</a></td>
+      </tr>
+      <tr>
          <td align="center">CRTO</td>
-         <td>- <a href="https://www.linkedin.com/jobs/view/4281661070">LI</a></td>
-         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_2.png">Image</a></td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4281661070">LI</a><br>- <a href="https://www.linkedin.com/jobs/view/4277636064">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_2.png">Image</a><br>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_3.png">Image</a></td>
+      </tr>
+      <tr>
+         <td align="center">GXPEN</td>
+         <td>- <a href="https://www.linkedin.com/jobs/view/4277636064/">LI</a></td>
+         <td>- <a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup/NEU_3.png">Image</a></td>
       </tr>
       <!-- INNER Separator -->
       <!-- INNER Separator -->
       <!-- INNER Separator -->
      <tr>
-       <td colspan="5"></td>
+       <td colspan="6"></td>
      </tr>
       <!-- INNER Separator -->
       <!-- INNER Separator -->
@@ -94,7 +109,7 @@ We have chosen to open-source our market research on HR-recognized certification
       <!-- INNER Separator -->
       <!-- INNER Separator -->
      <tr>
-       <td colspan="5"></td>
+       <td colspan="6"></td>
      </tr>
       <!-- INNER Separator -->
       <!-- INNER Separator -->
@@ -268,7 +283,7 @@ We have chosen to open-source our market research on HR-recognized certification
       <!-- INNER Separator -->
       <!-- INNER Separator -->
      <tr>
-       <td colspan="5"></td>
+       <td colspan="6"></td>
      </tr>
       <!-- INNER Separator -->
       <!-- INNER Separator -->
@@ -297,6 +312,7 @@ We have chosen to open-source our market research on HR-recognized certification
       </tr>
    </tbody>
 </table>
+
 
 
 
