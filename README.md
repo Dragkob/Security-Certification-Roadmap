@@ -195,7 +195,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
 - This project is proprietary and closed-source.
 - No license or rights are granted.
 - No part of this project, including code, media, documentation, or other content, may be copied, modified, reproduced, published, or distributed without explicit written and signed permission from Dragkob - the author.
-- A limited selection of elements is open source and is accessible in the Open Source Data folder.
+- A limited selection of elements is open source and is accessible in the [Open Source Data](https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data) folder.
 
 <br />
 <p align="center">Copyright © 2025 Dragkob. All Rights Reserved.</p>
