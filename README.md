@@ -156,8 +156,42 @@ Plan your InfoSec certification journey with this community-driven project, deve
 </table>
 
 <!-- END CHANGELOGS -->
+<br>
+<!-- START DOCUMENTS -->
 
-<br />
+<table>
+   <thead>
+      <tr>
+         <th colspan="3">📄 Documents 📄</th>
+      </tr>
+      <tr>
+         <th>Title</th>
+         <th>Info</th>
+         <th>Link</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>HR-Recognition Data</td>
+         <td>This document presents the data utilized for certification tracking, detailing HR recognition status and the corresponding regions of recognition.</td>
+         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/HR-Recognition.md">Document</a></td>
+      </tr>
+      <tr>
+         <td>World Subregions</td>
+         <td>The World Subregions document is designed to assist users in determining the subregion corresponding to their country.</td>
+         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md">Document</a></td>
+      </tr>
+      <tr>
+         <td>Job Postings Backup</td>
+         <td>This folder has been established to maintain archival copies of job postings, as the links referenced in the Open Source Data document are subject to expiration or removal. Retaining these copies ensures that users can verify the information when required.</td>
+         <td><a href="https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data/HR-Recognition/Job%20Postings%20Backup">Document</a></td>
+      </tr>
+   </tbody>
+</table>
+
+<!-- END DOCUMENTS -->
+<br>
+<!-- START WORKLOAD -->
 
 <table>
   <thead>
@@ -190,6 +224,8 @@ Plan your InfoSec certification journey with this community-driven project, deve
     </tr>
   </tbody>
 </table>
+
+<!-- END WORKLOAD -->
 
 ## License
 - This project is proprietary and closed-source.
