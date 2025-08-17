@@ -38,7 +38,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
       <td align="center"></td>
       <td rowspan="5">
          <div align="center"><strong>Forms</strong></div>
-         - <a href="https://forms.gle/KNM9X4Z8ZPNwNoKZ9">Certification Review Addition Request</a><br>
+         - <a href="https://forms.gle/KNM9X4Z8ZPNwNoKZ9">Cert Review Addition Request</a><br>
          - <a href="https://forms.gle/Mawf3SZCpDGjQ6ft5">Certification Addition Request</a><br>
          - <a href="https://discord.com/invite/QuPszM8KNM">Feedback & Support</a><br>
          - <a href="https://forms.gle/F8Extq3nJtssBKQc8">Feature Request</a><br>
