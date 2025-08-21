@@ -1,7 +1,7 @@
 <!-- Picture + Title + Separator -->
 <span title="Disclaimer: AI-Generated | Generated with Google Gemini."><img src="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Media/banner.png" /></span>
 # 
-<h2 align="center"><p>📜 Security Certification Roadmap 📜</p></h2>
+<h1 align="center"><p>📜 Security Certification Roadmap 📜</p></h1>
 
 Plan your InfoSec certification journey with this community-driven project, developed by Dragkob and his R&D team, drawing inspiration from [Paul Jeremy](https://pauljerimy.com/)'s renowned roadmap.
 
@@ -190,8 +190,68 @@ Plan your InfoSec certification journey with this community-driven project, deve
 </table>
 
 <!-- END DOCUMENTS -->
-<br>
+
+<!-- START FEATURES -->
+# 
+<h2 align="center"><p>🧩 Features 🧩</p></h2>
+<table>
+   <thead>
+      <th>
+         Features
+      </th>
+      <th>
+         Desktop / Laptop
+      </th>
+      <th>
+         Mobile / Tablet
+      </th>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Table component with interactive view</td>
+         <td align="center">✔️</td>
+         <td align="center">❌</td>
+      </tr>
+      <tr>
+         <td>Certification Comparator</td>
+         <td align="center">✔️</td>
+         <td align="center">❌</td>
+      </tr>
+      <tr>
+         <td>Dropdown Cards</td>
+         <td align="center">❌</td>
+         <td align="center">✔️</td>
+      </tr>
+      <tr>
+         <td>Advanced Filtering<br>- Vendor<br>- Specialty<br>- Sub-Specialty<br>- HR-Recognized<br>- Exam Type<br>- Budget<br>- Student Discount</td>
+         <td align="center">✔️</td>
+         <td align="center">✔️</td>
+      </tr>
+            <tr>
+               <td>Currency Selection</td>
+         <td align="center">✔️</td>
+         <td align="center">✔️</td>
+      </tr>
+            <tr>
+               <td>Search Bar</td>
+         <td align="center">✔️</td>
+         <td align="center">⏳</td>
+      </tr>
+            <tr>
+               <td>Digital Assistant</td>
+         <td align="center">✔️</td>
+         <td align="center">✔️</td>
+      </tr>
+   </tbody>
+</table>
+
+
+<!-- END FEATURES -->
+
 <!-- START WORKLOAD -->
+
+# 
+<h2 align="center"><p>⌚ Workload ⌚</p></h2>
 
 <table>
   <thead>
