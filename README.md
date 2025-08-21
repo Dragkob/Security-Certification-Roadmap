@@ -192,8 +192,9 @@ Plan your InfoSec certification journey with this community-driven project, deve
 <!-- END DOCUMENTS -->
 
 <!-- START FEATURES -->
+
 # 
-<h2 align="center"><p>🧩 Features 🧩</p></h2>
+<h2 align="center"><p>🧩 Features</p></h2>
 <table>
    <thead>
       <th>
@@ -251,7 +252,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
 <!-- START WORKLOAD -->
 
 # 
-<h2 align="center"><p>⌚ Workload ⌚</p></h2>
+<h2 align="center"><p>🕛 Workload</p></h2>
 
 <table>
   <thead>
@@ -287,7 +288,8 @@ Plan your InfoSec certification journey with this community-driven project, deve
 
 <!-- END WORKLOAD -->
 
-## License
+#
+<h2 align="center"><p>🔏 License</p></h2>
 - This project is proprietary and closed-source.
 - No license or rights are granted.
 - No part of this project, including code, media, documentation, or other content, may be copied, modified, reproduced, published, or distributed without explicit written and signed permission from Dragkob - the author.
