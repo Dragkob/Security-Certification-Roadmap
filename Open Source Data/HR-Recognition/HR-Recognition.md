@@ -1,6 +1,6 @@
 # 👤 HR-Recognition Data
 
-<strong>⚠️ - This document is still under development.</strong>
+<strong>⚠️ - This document is still under development. All the data was retrieved manually; no automated scraping was performed.</strong>
 
 We have chosen to open-source our market research on HR-recognized certifications. This research is based on factual data drawn from job postings and their stated requirements. In addition, we have implemented a backup system for removed job postings, ensuring their original content remains accessible for review.
 
@@ -342,6 +342,7 @@ We have chosen to open-source our market research on HR-recognized certification
       </tr>
    </tbody>
 </table>
+
 
 
 
