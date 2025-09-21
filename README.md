@@ -166,6 +166,13 @@ Plan your InfoSec certification journey with this community-driven project, deve
       <td align="center">-</td>
       <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/01-09-2025.md">Release Notes</a></td>
     </tr>
+    <tr>
+      <td align="center">22/09/2025</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center">-</td>
+      <td align="center"><a href="https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Changelogs/22-09-2025.md">Release Notes</a></td>
+    </tr>
   </tbody>
 </table>
 
