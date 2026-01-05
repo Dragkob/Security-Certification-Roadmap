@@ -262,7 +262,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
             <tr>
                <td>Search Bar</td>
          <td align="center">✔️</td>
-         <td align="center">⏳</td>
+         <td align="center">✔️</td>
       </tr>
    </tbody>
 </table>
@@ -318,4 +318,4 @@ Plan your InfoSec certification journey with this community-driven project, deve
 - A limited selection of elements is open source and is accessible in the [Open Source Data](https://github.com/Dragkob/Security-Certification-Roadmap/tree/main/Open%20Source%20Data) folder.
 
 <br />
-<p align="center">Copyright © 2025 Dragkob. All Rights Reserved.</p>
+<p align="center">Copyright © 2026 Dragkob. All Rights Reserved.</p>
