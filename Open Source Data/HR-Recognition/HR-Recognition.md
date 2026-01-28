@@ -35,7 +35,7 @@ We have chosen to open-source our market research on HR-recognized certification
 
 ## Data
 
-ⓘ Unsure of your country's subregion? Please refer to [this document](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/World_Subregions.md) and use Ctrl+F to quickly locate your country's designated subregion.
+ⓘ Unsure of your country's subregion? Please refer to [this document](https://github.com/Dragkob/Security-Certification-Roadmap/blob/main/Open%20Source%20Data/HR-Recognition/World_Subregions.md) and use Ctrl+F to quickly locate your country's designated subregion.
 
 <table>
    <thead>
@@ -342,6 +342,7 @@ We have chosen to open-source our market research on HR-recognized certification
       </tr>
    </tbody>
 </table>
+
 
 
 
