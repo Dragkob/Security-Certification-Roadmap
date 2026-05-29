@@ -305,7 +305,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
     <tr>
       <td align="center">Maintenance & Updates</td>
       <td align="center">
-        <img height="450" alt="Maint Updates" src="https://github.com/user-attachments/assets/93ae9ad1-3816-4de7-b66e-13a33c6d0834" width="670" />
+        <img alt="Maint Updates" src="https://github.com/user-attachments/assets/93ae9ad1-3816-4de7-b66e-13a33c6d0834" width="670" />
       </td>
     </tr>
     <tr>
