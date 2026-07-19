@@ -278,6 +278,11 @@ Plan your InfoSec certification journey with this community-driven project, deve
          <td align="center">✔️</td>
          <td align="center">✔️</td>
       </tr>
+                  <tr>
+               <td>Custom Roadmap Creation</td>
+         <td align="center">✔️</td>
+         <td align="center">❌</td>
+      </tr>
    </tbody>
 </table>
 
