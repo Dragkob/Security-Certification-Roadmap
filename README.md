@@ -226,7 +226,7 @@ Plan your InfoSec certification journey with this community-driven project, deve
          <td align="center">✔️</td>
       </tr>
       <tr>
-         <td>Advanced Filtering<br>- Vendor<br>- Specialty<br>- Sub-Specialty<br>- HR-Recognized<br>- Exam Type<br>- Budget<br>- Student Discount</td>
+         <td>Advanced Filtering<br>- Vendor<br>- Specialty<br>- Sub-Specialty<br>- Exam Type<br>- Budget<br>- Student Discount</td>
          <td align="center">✔️</td>
          <td align="center">✔️</td>
       </tr>
