@@ -1,5 +1,5 @@
 <!-- Picture + Title + Separator -->
-<span title="Disclaimer: AI-Generated | Generated with GPT."><img src="https://github.com/user-attachments/assets/dc7d9c67-fb97-46d6-a2fd-6e9077d7d6be" /></span>
+<span title="Disclaimer: Banner is AI-Generated | Generated with GPT."><a href="https://dragkob.com/security-certification-roadmap/"><img src="https://github.com/user-attachments/assets/dc7d9c67-fb97-46d6-a2fd-6e9077d7d6be" /></a></span>
 # 
 <h2 align="center"><p>📜 Security Certification Roadmap 📜</p></h2>
 
